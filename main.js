@@ -1,0 +1,15 @@
+console.log("Hi I am a console screen");
+ var firstname = "Brielle";
+  console.log(firstname); 
+  var lastname = "Bizia"; 
+  console.log(lastname); 
+  firstname.concat(lastname);
+   var fullname = firstname.concat(lastname); 
+   console.log(fullname); 
+   var length = fullname.length; 
+   console.log(length); 
+   var name1 = ("I am Brielle ABCD"); 
+   var replacename = name1.replace("ABCD", "Bizia"); 
+   console.log(replacename); var capitalname = "BRIELLE"; 
+   var lowercase = capitalname.toLocaleLowerCase(); 
+   console.log(lowercase);
